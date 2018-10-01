@@ -9,7 +9,7 @@ svc data enable
 ```
   명령어를 script 파일로 작성후에, bat으로 기기로 복사 후 실행하도록 짜놓으면 bat을 실행할때마다 data를 껐다가 켜도록 할 수 
 
-- 안드로이드 무선 ADB 사용
+- 안드로이드 무선 ADB 사용 (WIfi로 디버깅하기)
 
 ```bash
 @echo off
